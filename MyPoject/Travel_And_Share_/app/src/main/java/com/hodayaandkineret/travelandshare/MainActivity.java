@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.main, menu);
         Log.d("TAG", "1");
         Log.d("TAG", "2");
+        Log.d("TAG", "2");
         return true;
     }
 
